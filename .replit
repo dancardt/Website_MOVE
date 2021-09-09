@@ -1,2 +1,2 @@
-language = "vuejs"
+language = "bash"
 run = "npm run serve"
